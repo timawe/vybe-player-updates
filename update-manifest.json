@@ -2,6 +2,6 @@
   "versionCode": 4,
   "versionName": "1.2.1",
   "apkUrl": "https://github.com/timawe/vybe-player-updates/releases/download/v.1.2.1/app-release.apk",
-  "releaseNotes": "VYBE Player 1.2.1: Cleaner Settings screen, simplified update checking and improved user experience.",
+  "releaseNotes": "VYBE Player 1.2.1: Cleaner Settings and simplified update checking.",
   "minimumSupportedVersionCode": 1
 }
