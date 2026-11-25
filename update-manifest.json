@@ -1,8 +1,7 @@
-
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/timawe/vybe-player-updates/releases/download/v1.2/app-release.apk",
-  "releaseNotes": "VYBE Player 1.2: In-app update checking enabled. Improved mini-player controls and playback experience.",
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/timawe/vybe-player-updates/releases/download/v1.2.1/app-release.apk",
+  "releaseNotes": "VYBE Player 1.2.1: Cleaner Settings screen, simplified update checking and improved user experience.",
   "minimumSupportedVersionCode": 1
 }
